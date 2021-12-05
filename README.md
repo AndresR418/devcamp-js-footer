@@ -1,4 +1,4 @@
-## Devcamp JS Footer 
+## Devcamp Dynamic Footer 
 
 > This should be used in the following manner
 
